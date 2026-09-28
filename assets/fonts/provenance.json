@@ -1,0 +1,103 @@
+{
+  "generatedBy": "Codex/OpenAI",
+  "captured": "2026-09-28T16:54:07.086242+00:00",
+  "selection": "https://fonts.google.com/specimen/EB+Garamond",
+  "files": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap",
+      "path": "google-source.css",
+      "bytes": 5117,
+      "sha256": "778817843754300d251a2dfb23e0b7ac2a29a9c9cf2a9d57c63363237352a296"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDY1ZyHKpWiGIg.woff2",
+      "path": "eb-garamond-1.woff2",
+      "bytes": 35412,
+      "sha256": "8b2dcef53a6ade1cbbe7038372cccf1585cc766a09ff1db0b70246bca39d6b72"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweD81ZyHKpWiGIg.woff2",
+      "path": "eb-garamond-2.woff2",
+      "bytes": 26520,
+      "sha256": "d2c4018bf5127a0d3d761c537ab8d96d4bbfb27c592835d23f7ac9db77c11980"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDc1ZyHKpWiGIg.woff2",
+      "path": "eb-garamond-3.woff2",
+      "bytes": 12044,
+      "sha256": "6f05b7834287650ff917192744e045ca26b78fbfce32a68879fa8169e556275b"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDg1ZyHKpWiGIg.woff2",
+      "path": "eb-garamond-4.woff2",
+      "bytes": 19612,
+      "sha256": "09d8e9535aa76ce24b659ab15c402765d8c1741222f2ba7a10661ceec69f02ef"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDQ1ZyHKpWiGIg.woff2",
+      "path": "eb-garamond-5.woff2",
+      "bytes": 11076,
+      "sha256": "ad65742680d232e669d8457524be63fd6a847ddc4f94f26ee81e3ac1c3d03960"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDU1ZyHKpWiGIg.woff2",
+      "path": "eb-garamond-6.woff2",
+      "bytes": 88392,
+      "sha256": "0077bd5045a699e2d26d1fc5a6071f865ec0698ba419cad62ce9465b59b6d47c"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDs1ZyHKpWg.woff2",
+      "path": "eb-garamond-7.woff2",
+      "bytes": 47824,
+      "sha256": "d2761541b314509e02df3539cd35fc712954a48a50f4e0ab424dde817c699c2a"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR4SDk_YAPIlWk.woff2",
+      "path": "eb-garamond-8.woff2",
+      "bytes": 33932,
+      "sha256": "2db942ef6f5237810b751b686706fbd08969a28d055318a9a8fb4a1ec99bbcce"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GRxSDk_YAPIlWk.woff2",
+      "path": "eb-garamond-9.woff2",
+      "bytes": 25968,
+      "sha256": "171a104fa20c9ccf6c25945151a98b37ed2ae26986c2e01f9afda65ee2fa9f77"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR5SDk_YAPIlWk.woff2",
+      "path": "eb-garamond-10.woff2",
+      "bytes": 11476,
+      "sha256": "65f7302476afd8d89c200101a987691cd99da017e25fb4bf8f57c385f69e9b6f"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR2SDk_YAPIlWk.woff2",
+      "path": "eb-garamond-11.woff2",
+      "bytes": 19868,
+      "sha256": "19e98f32f56c0f648cc511d29305b295f6f63a7cf1f1c72eb8516dd21e69a705"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR6SDk_YAPIlWk.woff2",
+      "path": "eb-garamond-12.woff2",
+      "bytes": 10936,
+      "sha256": "d858010614321f668ca37def13edb91c98f9747d5126092a9dcbff264d6eb948"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR7SDk_YAPIlWk.woff2",
+      "path": "eb-garamond-13.woff2",
+      "bytes": 113756,
+      "sha256": "c2fa6862b03629214873944b171b0df1189420be52aabd82142d45f96fdce588"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR1SDk_YAPI.woff2",
+      "path": "eb-garamond-14.woff2",
+      "bytes": 44172,
+      "sha256": "68fd4b247dde89984ee835d99953d235e4927be2b1b732ad81173b519869cee8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/ebgaramond/OFL.txt",
+      "path": "OFL.txt",
+      "bytes": 4398,
+      "sha256": "0985066662eb755ed3683ae5482a81a9195b49ce3f7e165cc2388b3dbece7dd7"
+    }
+  ]
+}
